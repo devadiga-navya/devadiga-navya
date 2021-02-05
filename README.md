@@ -6,7 +6,7 @@
 - 👯 I’m looking to collaborate on the projects that uses latest development technologies.
 - 🤔 I’m looking or open to help with projects related to Wordpress, Joomla , Angularjs, Docker & kubernetes or Terraform issues. 
 - 📫 How to reach me: You can reach me on LinkedIn or Twitter  
-- ⚡ Fun fact:  i LOVE CODING 
+- ⚡ Fun fact:  I LOVE CODING 
 <!--
 **devadiga-navya/devadiga-navya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
