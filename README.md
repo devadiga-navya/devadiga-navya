@@ -7,9 +7,7 @@
 - 🤔 I’m looking or open to help with projects related to Wordpress, Joomla , Angularjs, Docker & kubernetes or Terraform issues. 
 - 📫 How to reach me: You can reach me on LinkedIn or Twitter  
 - ⚡ Fun fact:  I LOVE CODING 
-<!--
-**devadiga-navya/devadiga-navya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
- 
+
 Languages Known
 Python, PHP, Java, Angular and React applications
 
@@ -21,7 +19,9 @@ Kubernetes
 AWS/GCP
 Terraform 
 Jenkins
-
+<!--
+**devadiga-navya/devadiga-navya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
