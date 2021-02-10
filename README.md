@@ -9,6 +9,18 @@
 - ⚡ Fun fact:  I LOVE CODING 
 <!--
 **devadiga-navya/devadiga-navya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ 
+Languages Known
+Python, PHP, Java, Angular and React applications
+
+I love to code and work on:
+
+Go
+Docker
+Kubernetes
+AWS/GCP
+Terraform 
+Jenkins
 
 Here are some ideas to get you started:
 
