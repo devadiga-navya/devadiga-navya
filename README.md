@@ -9,16 +9,20 @@
 - ⚡ Fun fact:  I LOVE CODING 
 
 Languages Known
-Python, PHP, Java, Angular and React applications
+- Python, 
+- PHP, 
+- Java, 
+- Angular 
+- React applications
 
 I love to code and work on:
 
-Go
-Docker
-Kubernetes
-AWS/GCP
-Terraform 
-Jenkins
+- Go
+- Docker
+- Kubernetes
+- AWS/GCP
+- Terraform 
+- Jenkins
 <!--
 **devadiga-navya/devadiga-navya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
  
