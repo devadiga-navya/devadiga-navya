@@ -31,9 +31,10 @@ I love to code and work on:
 - Kubernetes
 - AWS/GCP
 - Terraform  
-
+<br/>
+<p>
 <img align="right" height=180em src="https://github-readme-stats.vercel.app/api?username=devadiga-navya&count_private=true&show_icons=true&theme=vue&include_all_commits=true"></img>
-<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
+</p>
 
 <!--
 **devadiga-navya/devadiga-navya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
