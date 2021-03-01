@@ -32,7 +32,6 @@ I love to code and work on:
 - AWS/GCP
 - Terraform  
 
-<img align="left" height=180em src="https://github-readme-stats.vercel.app/api/top-langs/?username=devadiga-navya&theme=vue&hide=css,tcl,html"></img>
 <img align="right" height=180em src="https://github-readme-stats.vercel.app/api?username=devadiga-navya&count_private=true&show_icons=true&theme=vue&include_all_commits=true"></img>
 <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
