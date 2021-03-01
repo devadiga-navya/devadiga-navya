@@ -10,8 +10,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/navyaganesh2" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Twitter - navyaganesh2" height="30" width="40" /></a>
-<a href="https://in.linkedin.com/in/navyad" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Navyashree Devadiga" height="30" width="40" /></a> 
+<a href="https://twitter.com/navyaganesh2" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSnRBYl1CeLfBUa1Yv0xAX4WtYxEYCdcznWQ&usqp=CAU" alt="Twitter - navyaganesh2" height="30" width="40" /></a>
+<a href="https://in.linkedin.com/in/navyad" target="blank"><img align="center" src="https://img.flaticon.com/icons/png/512/174/174857.png?size=1200x630f&pad=10,10,10,10&ext=png&bg=FFFFFFFF" alt="Navyashree Devadiga" height="30" width="40" /></a> 
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
