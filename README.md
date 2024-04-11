@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Python Flask Application and a legacy application on PHP Zend.
+- 🔭 I’m currently working on Java Springboot Application and Angularjs or React Front end application with Ansible playbooks Integration 
+- 🔭 Experienced with Python Flask Application and Machine learning and data science modules.
 - 🌱 I’m currently learning Infrastructure as a code using Terraform and preparing for the Terraform Associate Certification. 
 - 🌱 I’m also learning about Data Science concepts from IBM Professional Data Science coursera course. 
 - 👯 I’m looking to collaborate on the projects that uses latest development technologies.
